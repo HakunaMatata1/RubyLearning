@@ -217,6 +217,8 @@ new_string
 end
 ##Success
 
+
+##purposely is wrong to use debugger gem to step into and figure out why
 def prime?(num)
 	
 	
